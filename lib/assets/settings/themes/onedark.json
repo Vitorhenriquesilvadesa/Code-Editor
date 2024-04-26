@@ -1,0 +1,21 @@
+{
+  "backgroundColor": "0xFF282A36",
+  "foregroundColor": "0xFF252931",
+  "headerColor": "0xFF1D2025",
+  "dividerColor": "0xFF332C48",
+  "iconColor": "0xFF37A9FF",
+  "textColor": "0xFFC4C4C4",
+  "projectMenuColor": "0xFF1D2025",
+  "identifierColor": "0xFFE5C07B",
+  "commonWordColor": "0xFFABB2BF",
+  "keywordColor": "0xFFC678DD",
+  "variableColor": "0xFFE06C75",
+  "functionColor": "0xFF61AFEF",
+  "stringColor": "0xFF98C379",
+  "genericTypeColor": "0xFF56B6C2",
+  "foregroundTextColor": "0xFF525B6A",
+  "commentColor": "0xFF6272A4",
+  "fontSize": "18.0",
+  "lineHeight": "1.8",
+  "menuFontSize": "14.0"
+}

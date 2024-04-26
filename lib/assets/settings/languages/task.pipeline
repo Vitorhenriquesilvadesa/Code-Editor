@@ -1,0 +1,8 @@
+@Task("Tarefa1") {
+
+    @Start {
+        execução
+
+        out valorDeRetorno;
+    }
+}

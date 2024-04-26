@@ -1,0 +1,12 @@
+import myComputationalVisionLib as myLib;
+
+
+@Multithreading {
+
+    def openCamera(cameraIndex):
+        myLib.showCamera(cameraIndex)
+
+    def myFruitDetectAlgorithm(camera):
+        parallel:
+            ... Implementation of detection
+}
